@@ -1,7 +1,7 @@
-# readMe Generator ![MIT](https://img.shields.io/badge/license-MIT-red)
+# ReadMe Generator ![MIT](https://img.shields.io/badge/license-MIT-red)
 
   ## Description 
-  readme generator for future projects
+  Generates Readme.md files for future projects
 
   ## Table of Contents
   * [Installation](#installation)
@@ -9,10 +9,10 @@
   * [License](#license)
   * 
   ## Installation
-  In the terminal, run npm i. Then run node index.js. Make sure to save the demo in assests/demo!
+  first run npm i in terminal, then run node index.js. Make sure to add demo gif's or photos in the assets/demo file
 
   ## Usage 
-  Create readMe files
+  create readme files
 
   ## License
   This product uses a MIT license
