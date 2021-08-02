@@ -72,7 +72,7 @@ function generateMarkdown(readMeContent) {
   ${renderLicenseSection(readMeContent)}
 
   ## Demo
-  <img src="assets/demo/${readMeContent.demo}">
+  <img src="assets/${readMeContent.demo}">
 
   ## Questions
   For additional questions feel free to contact: ${readMeContent.emailAddress}
