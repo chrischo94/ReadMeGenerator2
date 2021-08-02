@@ -18,7 +18,7 @@
   This product uses a MIT license
 
   ## Demo
-  <img src="C:\Users\chris\Desktop\coding-bootcamp\ReadMeGenerator2\assests\demo\ezgif.com-gif-maker(1).gif">
+  <img src="assets/demo/ezgif.com-gif-maker.gif">
   <img src="assets/demo/ezgif.com-gif-maker(1).gif">
 C:\Users\chris\Desktop\coding-bootcamp\ReadMeGenerator2\assests\demo\ezgif.com-gif-maker(1).gif
   ## Questions
