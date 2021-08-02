@@ -20,7 +20,7 @@
   ## Demo
   <img src="assets/demo/ezgif.com-gif-maker.gif">
   <img src="assets/demo/ezgif.com-gif-maker(1).gif">
-C:\Users\chris\Desktop\coding-bootcamp\ReadMeGenerator2\assests\demo\ezgif.com-gif-maker(1).gif
+
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
   GitHub: https://github.com/chrischo94
