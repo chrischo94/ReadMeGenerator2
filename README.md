@@ -18,8 +18,8 @@
   This product uses a MIT license
 
   ## Demo
-  <img src="assets/ezgif.com-gif-maker.gif">
-  <img src="assets/ezgif.com-gif-maker(1).gif">
+  <img src="assets/images/ezgif.com-gif-maker.gif">
+  <img src="assets/images/ezgif.com-gif-maker(1).gif">
 
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
