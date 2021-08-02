@@ -7,7 +7,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * 
+  
   ## Installation
   first run npm i in terminal, then run node index.js. Make sure to add demo gif's or photos in the assets/demo file
 
@@ -18,7 +18,7 @@
   This product uses a MIT license
 
   ## Demo
-  <img src="assets/demo/ezgif.com-gif-maker.gif">
+  <img src="assets/demo/CaptureJPG">
   <img src="assets/demo/ezgif.com-gif-maker(1).gif">
 
   ## Questions
